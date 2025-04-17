@@ -13,3 +13,9 @@ function myDateTime()
 }
 
 setInterval(myDateTime, 1000);
+
+const stopWatch = document.querySelector(".stopWatch");
+
+stopWatch.addEventListener("click", () => {
+    
+})

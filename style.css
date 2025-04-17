@@ -1,0 +1,11 @@
+.header {
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(255, 81, 81);
+}
